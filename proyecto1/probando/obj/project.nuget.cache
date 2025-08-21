@@ -5,10 +5,10 @@
   "projectFilePath": "C:\\Users\\wizza\\Desktop\\miPrimerRepo\\proyecto1\\probando\\probando.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wizza\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
-    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512",
     "C:\\Users\\wizza\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
-    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512"
+    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\wizza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
   ],
   "logs": [
     {
